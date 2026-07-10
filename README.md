@@ -262,11 +262,14 @@ An HTML incident report is auto-generated with full attack details, session stat
 
 > ⚠️ **Disclaimer:** This project was conducted in an isolated VMware lab environment for educational purposes only. All attack simulations were performed on systems owned and controlled by the author.
 
+---
+
 > ## 👤 Author
  
 **alexrepsec**  
 Cybersecurity enthusiast | Home Lab Builder
  
-*This project was built as part of a cybersecurity portfolio to demonstrate practical SOC automation, AI-powered threat detection, and network traffic analysis skills.*
+*This project was built as part of a cybersecurity portfolio to demonstrate practical SOC automation and analyst skills.*
  
+
 ---
