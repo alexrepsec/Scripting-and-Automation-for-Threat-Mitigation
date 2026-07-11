@@ -1,0 +1,3 @@
+logs/monitor.log
+logs/blocked_ips.json
+reports/*.html
